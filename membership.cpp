@@ -52,5 +52,6 @@ int main()
 				cout<<"You will be charge : "<<total<<endl;
 
 			}while(choice != 4);
+			cout<<"Thank you !!!"<<endl;
 return 0;
 }
